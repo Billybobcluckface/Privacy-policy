@@ -1,1 +1,1 @@
-We do not collect any information. 
+We do not collect any user information. 
